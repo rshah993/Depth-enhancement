@@ -8,3 +8,5 @@ We use a unified depth recovery framework with a color-guided Autoregressive (AR
 # How-to
 Run the file depth_enhance.m in MATLAB. 
 The program generates large .mat files so beware of the large files.
+
+For more info, please read the report.
