@@ -1,7 +1,3 @@
-% www.allontutorials.com
-% This is a free software, have fun with it.
-% Refer to the website for more info and parameter description
-
 function Out = bilateral_filter(In,N,sigma_d,sigma_r)
 
 % Allocate memory for the output image
